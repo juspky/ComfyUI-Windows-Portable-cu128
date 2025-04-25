@@ -1,3 +1,6 @@
+# This fork is updated to CUDA 128 to support RTX 5090
+
+
 [.text-center]
 English | *link:README.zh.adoc[中文说明]*
 
